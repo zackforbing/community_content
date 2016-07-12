@@ -4,7 +4,7 @@
 
 #### Lightning Talks (M2 students)
 
-* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Zack Forbing - [Programming and the Arts](http://gist.github.com/username/link-to-my-outline-gist) - no gist yet
 
 #### Student-Led Sessions (M2 students)
 
